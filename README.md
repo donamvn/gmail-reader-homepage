@@ -1,10 +1,10 @@
-# Gmail Reader - Homepage
+# DoNam Gmail Automation - Homepage
 
-This repository contains the official homepage and privacy policy for the Gmail Reader application.
+This repository contains the official homepage and privacy policy for the DoNam Gmail Automation application.
 
-## About Gmail Reader
+## About DoNam Gmail Automation
 
-Gmail Reader is an automated email processing service that helps businesses and individuals manage their Gmail inbox efficiently. Our service provides secure API access to read and process emails for automation workflows.
+DoNam Gmail Automation is an automated email processing service that helps businesses and individuals manage their Gmail inbox efficiently. Our service provides secure API access to read and process emails for automation workflows.
 
 ## Pages
 
@@ -17,7 +17,7 @@ This site is hosted on GitHub Pages at: https://donamvn.github.io/gmail-reader-h
 
 ## Google OAuth Verification
 
-This homepage is designed to meet Google OAuth verification requirements for the Gmail Reader application.
+This homepage is designed to meet Google OAuth verification requirements for the DoNam Gmail Automation application.
 
 ## Contact
 

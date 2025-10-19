@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DoNam Gmail Automation - Professional Email Processing</title>
+    <title>Gmail Reader - Email Processing Service</title>
     <style>
         body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
         .header { text-align: center; margin-bottom: 40px; }
@@ -15,14 +15,14 @@
 </head>
 <body>
     <div class="header">
-        <h1>📧 DoNam Gmail Automation</h1>
-        <p><strong>Professional Email Processing Service</strong></p>
+        <h1>📧 Gmail Reader</h1>
+        <p><strong>Automated Email Processing Service</strong></p>
         <p>Developed by DoNam Technology Solutions</p>
     </div>
 
     <div class="section">
-        <h2>🎯 What is DoNam Gmail Automation?</h2>
-        <p>DoNam Gmail Automation is a professional email processing service that helps businesses and individuals manage their Gmail inbox efficiently. Our service provides secure API access to read and process emails for automation workflows.</p>
+        <h2>🎯 What is Gmail Reader?</h2>
+        <p>Gmail Reader is an automated email processing service that helps businesses and individuals manage their Gmail inbox efficiently. Our service provides secure API access to read and process emails for automation workflows.</p>
     </div>
 
     <div class="section">
@@ -66,7 +66,7 @@
 
     <div class="section">
         <h2>🔐 Security & Permissions</h2>
-        <p>DoNam Gmail Automation uses Google's secure OAuth2 authentication system. This means:</p>
+        <p>Gmail Reader uses Google's secure OAuth2 authentication system. This means:</p>
         <ul>
             <li>We never see or store your Gmail password</li>
             <li>You can revoke access at any time through your Google Account settings</li>
@@ -90,7 +90,7 @@
 
     <div class="section">
         <h2>🚀 Getting Started</h2>
-        <p>To use DoNam Gmail Automation service, you need to:</p>
+        <p>To use Gmail Reader service, you need to:</p>
         <ol>
             <li>Authorize the application to access your Gmail</li>
             <li>Configure your email processing rules</li>
